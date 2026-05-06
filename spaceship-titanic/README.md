@@ -1,4 +1,4 @@
-# Spaceship Titanic — Predict Alternate Dimension 
+# Spaceship Titanic - Predict Alternate Dimension 
 
 ## Result
 - **Kaggle Score:** 80.1% accuracy
@@ -6,13 +6,13 @@
 - **Kaggle Notebook:** [View Here](https://www.kaggle.com/code/ngowthamkumar/notebookaf4387efd1)
 
 ## Problem
-Binary classification — predict which passengers
+Binary classification - predict which passengers
 were transported to an alternate dimension during
 the Spaceship Titanic's collision with a spacetime anomaly.
 
 ## Dataset
-- train.csv — 8,693 passengers with labels
-- test.csv  — 4,277 passengers to predict
+- train.csv - 8,693 passengers with labels
+- test.csv  - 4,277 passengers to predict
 - Balanced dataset: 50.4% transported, 49.6% not
 
 ## Approach

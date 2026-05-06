@@ -1,4 +1,4 @@
-# Titanic — Machine Learning from Disaster 
+# Titanic - Machine Learning from Disaster 
 
 ## Result
 - **Kaggle Score:** 77.0% accuracy
@@ -6,13 +6,13 @@
 - **Kaggle Notebook:** [View Here](https://www.kaggle.com/code/ngowthamkumar/notebook5ad3281e9e)
 
 ## Problem
-Binary classification — predict which passengers
+Binary classification - predict which passengers
 survived the Titanic disaster using passenger records
 (age, gender, ticket class, cabin etc.)
 
 ## Dataset
-- train.csv — 891 passengers with survival labels
-- test.csv  — 418 passengers to predict
+- train.csv - 891 passengers with survival labels
+- test.csv  - 418 passengers to predict
 
 ## Approach
 

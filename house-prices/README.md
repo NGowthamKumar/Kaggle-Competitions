@@ -1,4 +1,4 @@
-# House Prices — Advanced Regression Techniques 
+# House Prices - Advanced Regression Techniques 
 
 ## Result
 - **Kaggle Score:** 0.121 RMSE
@@ -6,13 +6,13 @@
 - **Kaggle Notebook:** [View Here](https://www.kaggle.com/code/ngowthamkumar/notebooka3645426ac)
 
 ## Problem
-Regression — predict sale prices of residential homes
+Regression - predict sale prices of residential homes
 in Ames, Iowa using 79 features describing almost
 every aspect of the property.
 
 ## Dataset
-- train.csv — 1460 houses with sale prices
-- test.csv  — 1459 houses to predict
+- train.csv - 1460 houses with sale prices
+- test.csv  - 1459 houses to predict
 
 ## Approach
 
@@ -60,7 +60,7 @@ every aspect of the property.
 - Removing outliers hurt test performance
 - Combining train+test before cleaning ensures consistency
 - Feature engineering gave bigger gains than model tuning
-- Data leakage in target encoding — must use KFold
+- Data leakage in target encoding - must use KFold
 
 ## Tech Stack
 Python | Pandas | XGBoost | LightGBM | Scikit-learn | Matplotlib | Seaborn
